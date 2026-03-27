@@ -14,5 +14,16 @@ A modern, professional-grade MATLAB App Designer project designed to handle comp
 3. Open MATLAB, open `iEdge`, and run the command: `iEdgeDetector`.
 4. Upload an image, click **Apply Edge Detection**, and view the computer vision output instantly.
 
-## 📸 Screenshots
+## 📸 Project Preview
+
+<p align="center">
+  <img src="https://github.com/hadiaymen/iEdge/raw/main/interface.png" width="80%" alt="App Interface"/>
+</p>
+
+### 🧮 MATLAB Implementation
+![MATLAB](https://github.com/hadiaymen/iEdge/raw/main/MatLAB.png)
+
+### 💻 Development Environment
+![VS Code](https://github.com/hadiaymen/iEdge/raw/main/VSCODE.png)
+
 
