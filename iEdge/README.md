@@ -16,6 +16,9 @@ A modern, professional-grade MATLAB App Designer project designed to handle comp
 
 ## 📸 Project Preview
 
+
+### 🖥️ Application Interface
+
 <p align="center">
   <img src="https://github.com/hadiaymen/iEdge/raw/main/interface.png" width="80%" alt="App Interface"/>
 </p>
